@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá! Eu sou Josilene Coutinho 👋
 
-<!--
-**SileCout/SileCout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Em transição de carreira da área da saúde para tecnologia  
+🚀 Interessada em desenvolvimento web, QA e soluções tecnológicas
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologias em estudo
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+---
+
+## 📂 Projetos
+
+🔹 Meu portfólio  
+https://site-jsrc-2026-grbqe2htdxdncuc3.brazilsouth-01.azurewebsites.net/
+
+🔹 Repositório do site  
+https://github.com/SileCout/meu-site-azure
+
+---
+
+## 📫 Contato
+
+LinkedIn  
+https://www.linkedin.com/in/josilene-sobreira-r-coutinho-578218310/
