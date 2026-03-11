@@ -13,6 +13,7 @@
 - JavaScript
 - Git
 - GitHub
+- Salesforce
 
 ---
 
