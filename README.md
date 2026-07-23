@@ -14,6 +14,8 @@
 - Git
 - GitHub
 - Salesforce
+- IA
+- Backend
 
 ---
 
